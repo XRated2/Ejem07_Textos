@@ -11,5 +11,9 @@ public class StringArrayUtilsTest {
 	public void test() {
 		fail("Not yet implemented");
 	}
-
+	
+	@Parameters
+	public static ArrayList<Complejo[]> misValores(){
+		
+	}
 }
